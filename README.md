@@ -4,5 +4,5 @@ that a zip file with all mod needed i think some mod can be not used but yea i g
     <a href="https://github.com/Nos-Inc/Noraus-file/releases/download/recent/mods.1.zip">https://github.com/Nos-Inc/Noraus-file/releases/download/recent/mods.1.zip</a><br>
 }<br>
 it just the .jar no other mod needed i think only for 1.8.9 <3 {<br>
-    https://github.com/Nos-Inc/Noraus-file/releases/download/old/Noraus-0.0.1-all.jar<br>
+    <a href="https://github.com/Nos-Inc/Noraus-file/releases/download/old/Noraus-0.0.1-all.jar">https://github.com/Nos-Inc/Noraus-file/releases/download/old/Noraus-0.0.1-all.jar</a><br>
 }<br>
